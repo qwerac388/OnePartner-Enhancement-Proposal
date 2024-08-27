@@ -14,12 +14,6 @@ OnePartner 功能提升方案 is a web-based presentation showcasing proposed fe
 2. Interactive carousels for displaying current features and proposed enhancements
 3. Modal image viewer for detailed feature inspection
 
-## Project Structure
-
-- `index.html`: Main HTML file containing the structure of the web page
-- `style.css`: CSS file for styling the web page
-- `index.js`: JavaScript file for implementing interactive features
-
 ## Proposed Enhancements
 
 1. 開發簡體中文界面
